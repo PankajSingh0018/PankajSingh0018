@@ -17,7 +17,7 @@
 
  ## ❄️ My Projects
  
- **Exploratory Data Analysis and Visualization of Global Terrorism Activities - [Project Notebook ](https://jovian.ai/singh-pankaj0018/exploratory-data-analysis-project-eda)**
+ **Exploratory Data Analysis and Visualization of Global Terrorism Activities - [Project Notebook](https://jovian.ai/singh-pankaj0018/exploratory-data-analysis-project-eda)**
  
 - Analyzed & Cleaned 181K rows of unstructured data sub-classified into 135 categories.
 
@@ -25,7 +25,7 @@
 
 - Discovered there is a 94% increase in the rate of the total number of terrorist activities across the globe.
 
-**Web-Scraping Jobs Related to Data Science and related Domain from INDEED -[Project Notebook](https://jovian.ai/singh-pankaj0018/webscraping-project)**
+**Web-Scraping Jobs Related to Data Science and related Domain from INDEED - [Project Notebook](https://jovian.ai/singh-pankaj0018/webscraping-project)**
 
 - Scraped data Science Job listings in the India region from INDEED using Requests & BeautifulSoup.
 
@@ -33,6 +33,11 @@
 
 - Stored data consisting of 105 jobs & 7 attributes into dataframe & converted to .CSV format
 
+## 💥 Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Web-Scraping Jobs Related to Data Science and related Domain from INDEED](https://medium.com/jovianml/web-scraping-data-science-related-jobs-3c6439de8af8)
+
+<!-- BLOG-POST-LIST:END -->
  
  
 
