@@ -4,7 +4,7 @@
 
 👉 Currently Working on Machine Learning 
 
-🚀 I'm looking to upskill in Machine Learning, Deep-Learning & AI
+🚀 Getting Upskilled in Machine Learning, Deep-Learning & AI
 
 🎯 Status: Open to work
 
