@@ -33,6 +33,12 @@
 
 - Stored data consisting of 105 jobs & 7 attributes into dataframe & converted to .CSV format
 
+**Excel and Tableau Dashoard for Bookstore Dataset - [Tableau Dashboard](https://public.tableau.com/app/profile/pankaj.singh3083/viz/BookShop_16635074259600/Dashboard1#1)**
+- Worked with Bookshop dataset with 13 different data sources (Authors, Books, Q1-Q4 Sales, etc.)
+- Created Pivot tables to generate the Monthly sales and Average rating for each book in excel
+-	Generated a Tableau dashboard depicting every author's costliest and cheapest books.
+
+
 ## 💥 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Web-Scraping Jobs Related to Data Science and related Domain from INDEED](https://medium.com/jovianml/web-scraping-data-science-related-jobs-3c6439de8af8)
