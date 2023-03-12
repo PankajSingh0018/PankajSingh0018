@@ -2,9 +2,8 @@
 <h1 align="center"> 👋  Pankaj Singh </h1>
 <h3 align="left">Data science and Machine-Learning practitioner</h3>
 
-👉 Currently Working on Machine Learning 
 
-🚀 Getting Upskilled in Machine Learning, Deep-Learning & AI
+🚀 Upskilling in Machine Learning, Deep-Learning & AI
 
 🎯 Status: Open to work
 
