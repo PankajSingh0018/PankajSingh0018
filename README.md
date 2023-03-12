@@ -17,6 +17,14 @@
 
  ## ❄️ My Projects
  
+ **Machine Learning Project on Predicting whether a car bought at auction is a good or a bad buy - [Project Notebook](https://jovian.com/singh-pankaj0018/machine-learning-project)**
+ 
+- Downloaded dataset from Kaggle Competition which has 70k rows and 33 different categories.
+
+-  Trained in Logistic Regression, Decision-Tree, and Random-Forest Models using Scikit-Learn.
+
+- Submitted the results and achieved a score within the top 25% on the competition leaderboard.
+
  **Exploratory Data Analysis and Visualization of Global Terrorism Activities - [Project Notebook](https://jovian.ai/singh-pankaj0018/exploratory-data-analysis-project-eda)**
  
 - Analyzed & Cleaned 181K rows of unstructured data sub-classified into 135 categories.
