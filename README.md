@@ -49,6 +49,7 @@
 ## 💥 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Web-Scraping Jobs Related to Data Science and related Domain from INDEED](https://medium.com/jovianml/web-scraping-data-science-related-jobs-3c6439de8af8)
+- [Exploratory Data Analysis on Global Terrorism Activities](https://medium.com/@singh.pankaj0018/exploratory-data-analysis-on-global-terrorism-activities-a62cfca4480f)
 
 <!-- BLOG-POST-LIST:END -->
  
