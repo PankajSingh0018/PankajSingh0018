@@ -50,7 +50,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Web-Scraping Jobs Related to Data Science and related Domain from INDEED](https://medium.com/jovianml/web-scraping-data-science-related-jobs-3c6439de8af8)
 - [Exploratory Data Analysis on Global Terrorism Activities](https://medium.com/@singh.pankaj0018/exploratory-data-analysis-on-global-terrorism-activities-a62cfca4480f)
-- [Machine Learning Project ]([https://medium.com/@singh.pankaj0018/exploratory-data-analysis-on-global-terrorism-activities-a62cfca4480f](https://medium.com/@singh.pankaj0018/machine-learning-problem-24ef6ef102b1))
+- [Machine Learning Project ](https://medium.com/@singh.pankaj0018/exploratory-data-analysis-on-global-terrorism-activities-a62cfca4480f](https://medium.com/@singh.pankaj0018/machine-learning-problem-24ef6ef102b1)
 
 <!-- BLOG-POST-LIST:END -->
  
