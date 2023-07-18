@@ -1,73 +1,37 @@
+<h1 align="center">Hi 👋, I'm Pankaj Singh</h1>
+<h3 align="center">Data Scientist</h3>
 
-<h1 align="center"> 👋  Pankaj Singh </h1>
-<h3 align="left">Data science and Machine-Learning practitioner</h3>
-
-
-🚀 Upskilling in Machine Learning, Deep-Learning & AI
-
-🎯 Status: Open to work
-
-## ⚡Completed 
-
-✌️Courses- Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
-
-⚡Highlights-600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML)
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/animated-cute-robot-great-design-any-purposes-cartoon-realistic-bot-animal-character-design-internet-communication-comic-drawing-cute-character-design-comic-background_155807-8709.jpg?w=1060">
 
 
- ## ❄️ My Projects
- 
- **Machine Learning Project on Predicting whether a car bought at auction is a good or a bad buy - [Project Notebook](https://jovian.com/singh-pankaj0018/machine-learning-project)**
- 
-- Downloaded dataset from Kaggle Competition which has 70k rows and 33 different categories.
+- 🔭 I’m currently working on **Machine Learning**
 
--  Trained in Logistic Regression, Decision-Tree, and Random-Forest Models using Scikit-Learn.
+- 🌱 I’m currently learning **Deep Learning, Computer Vision, NLP**
 
-- Submitted the results and achieved a score within the top 25% on the competition leaderboard.
+- 👯 I’m looking to collaborate on **Data Science, Machine Learning & AI**
 
- **Exploratory Data Analysis and Visualization of Global Terrorism Activities - [Project Notebook](https://jovian.ai/singh-pankaj0018/exploratory-data-analysis-project-eda)**
- 
-- Analyzed & Cleaned 181K rows of unstructured data sub-classified into 135 categories.
+- 👨‍💻 You can view my entire [Portfolio](https://github.com/PankajSingh0018?tab=repositories)
 
-- Created visualizations (Scatter plot, Wordcloud, Sunburst, Treemaps, etc) using Seaborn & Plotly.
+- 📝 I regularly write articles on [Medium](https://medium.com/@singh.pankaj0018)
 
-- Discovered there is a 94% increase in the rate of the total number of terrorist activities across the globe.
+- 💬 Ask me about **Python , Statistics, Web-Scraping, Machine Learning, Docker, Cloud**
 
-**Web-Scraping Jobs Related to Data Science and related Domain from INDEED - [Project Notebook](https://jovian.ai/singh-pankaj0018/webscraping-project)**
+- 📫 How to reach me **singh.pankaj0018@gmail.com**
 
-- Scraped data Science Job listings in the India region from INDEED using Requests & BeautifulSoup.
-
-- Extract Data Science Job Postings using functions with the details - Job-Role, Location, Salary, etc
-
-- Stored data consisting of 105 jobs & 7 attributes into dataframe & converted to .CSV format
-
-**Excel and Tableau Dashoard for Bookstore Dataset - [Tableau Dashboard](https://public.tableau.com/app/profile/pankaj.singh3083/viz/BookShop_16635074259600/Dashboard1#1)**
-- Worked with Bookshop dataset with 13 different data sources (Authors, Books, Q1-Q4 Sales, etc.)
-- Created Pivot tables to generate the Monthly sales and Average rating for each book in excel
--	Generated a Tableau dashboard depicting every author's costliest and cheapest books.
-
-
-## 💥 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Web-Scraping Jobs Related to Data Science and related Domain from INDEED](https://medium.com/jovianml/web-scraping-data-science-related-jobs-3c6439de8af8)
-- [Exploratory Data Analysis on Global Terrorism Activities](https://medium.com/@singh.pankaj0018/exploratory-data-analysis-on-global-terrorism-activities-a62cfca4480f)
-- [Machine Learning Project](https://medium.com/@singh.pankaj0018/machine-learning-problem-24ef6ef102b1)
-
-<!-- BLOG-POST-LIST:END -->
- 
- 
-
-## 🌠 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PankajSingh0018&show_icons=true&locale=en" alt="PankajSingh0018" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PankajSingh0018&" alt="PankajSingh0018" /></p>
- 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PankajSingh0018" alt="PankajSingh0018" /></a> </p>
- 
-## 💤 Connect with me
-
-<a href="https://www.linkedin.com/in/singhpankaj0018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="singhpankaj0018" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/singhpankaj0018/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/singhpankaj0018/" height="30" width="40" /></a>
 <a href="https://medium.com/@singh.pankaj0018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@singh.pankaj0018" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/singh_pankaj0018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="singh_pankaj0018" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/pankajsingh0018/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pankajsingh0018/" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PankajSingh0018&label=Profile%20views&color=0e75b6&style=flat" alt="PankajSingh0018" /> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajsingh0018&show_icons=true&locale=en&layout=compact" alt="pankajsingh0018" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajsingh0018&show_icons=true&locale=en" alt="pankajsingh0018" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajsingh0018&" alt="pankajsingh0018" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajsingh0018&label=Profile%20views&color=0e75b6&style=flat" alt="pankajsingh0018" /> </p>
