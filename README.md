@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajsingh0018&" alt="pankajsingh0018" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajsingh0018&label=Profile%20views&color=0e75b6&style=flat" alt="pankajsingh0018" /> </p>
+
