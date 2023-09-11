@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **Natural Language Processing & LLMs**
 
-- 🌱 I’m currently learning **Deep Learning, Computer Vision, NLP**
-
 - 👯 I’m looking to collaborate on **Data Science, Machine Learning & AI**
 
 - 👨‍💻 You can view my entire [Portfolio](https://github.com/PankajSingh0018?tab=repositories)
