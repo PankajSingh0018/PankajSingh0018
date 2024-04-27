@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/animated-cute-robot-great-design-any-purposes-cartoon-realistic-bot-animal-character-design-internet-communication-comic-drawing-cute-character-design-comic-background_155807-8709.jpg?w=1060">
 
 
-- 🔭 I’m currently working on **Natural Language Processing & LLMs**
+- 🔭 I’m currently working on **Langchain, LLMs and Generative AI**
 
 - 👯 I’m looking to collaborate on **Data Science, Machine Learning & AI**
 
